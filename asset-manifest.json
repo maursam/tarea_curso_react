@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarea_curso_react/static/css/main.f32f3cbc.css",
+    "main.js": "/tarea_curso_react/static/js/main.2d1fcab1.js",
+    "static/media/delete-button.svg": "/tarea_curso_react/static/media/delete-button.97a44f28eab6fa0f36f05a37f4658dab.svg",
+    "index.html": "/tarea_curso_react/index.html",
+    "static/media/check_green_icon.svg": "/tarea_curso_react/static/media/check_green_icon.0581711f56eb968e9371e8d967fd249c.svg",
+    "main.f32f3cbc.css.map": "/tarea_curso_react/static/css/main.f32f3cbc.css.map",
+    "main.2d1fcab1.js.map": "/tarea_curso_react/static/js/main.2d1fcab1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32f3cbc.css",
+    "static/js/main.2d1fcab1.js"
+  ]
+}
